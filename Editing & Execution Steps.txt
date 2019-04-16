@@ -1,0 +1,31 @@
+Software To Be Pre-Installed:
+1.Netbeans 8.0
+2.Sqlserver 2012
+3.Tomcat 8(above)
+4.winrar
+
+
+Execution:
+
+1.Extract zip file & open project in Netbeans
+
+2.Configure and attach tomcat server to netbeans
+
+3.Extract users.zip file 
+
+4.Import or Open users.mdf database in sqlserver 2012
+
+5.Run the project in netbeans using tomcat
+
+
+Logins&Passwords:
+
+AdminLogin(Default)
+userid  :-adminlbce
+password:-admin
+
+RegistarLogin & facultyLogin (Default)
+userid  :-cse
+password:-cse
+
+StudentLogin & FeedbackLogin:-RollNumbers of 2012-2016 batch

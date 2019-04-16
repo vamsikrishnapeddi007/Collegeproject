@@ -1,0 +1,7 @@
+Software To Be Pre-Installed:
+
+1.Netbeans 8.0
+2.Sqlserver 2012
+3.Tomcat 8(above)
+4.Java 1.7(above)
+5.winrar

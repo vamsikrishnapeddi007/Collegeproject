@@ -1,0 +1,36 @@
+Software To Be Pre-Installed:
+1.Java 1.7(above)
+2.Sql Server 2012
+3.Tomcat 8(above)
+
+
+Execution:
+
+1.Open Sis Sqlserver Database folder
+
+2.Extract users.zip file 
+
+3.Import or Open users.mdf database in sqlserver 2012
+
+4.Start Tomcat Server
+
+5.Open localhost:8080 and then login to manger app in tomcat server
+
+6.Then deploy the war by browsing the folder Sis war file.
+
+7.After successfull completion of deployment, type below url in browser.
+
+8.http://localhost:8080/Sis/
+
+
+Logins&Passwords:
+
+AdminLogin(Default)
+userid  :-adminlbce
+password:-admin
+
+RegistarLogin & facultyLogin (Default)
+userid  :-cse
+password:-cse
+
+StudentLogin & FeedbackLogin:-RollNumbers of 2012-2016 batch
